@@ -1,2 +1,1 @@
-# cqcl
-pytket is a python module for interfacing with CQC t|ket
+ Intelligent Flight Control System (IFCS) is a next-generation flight control system
